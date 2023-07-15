@@ -1,2 +1,2 @@
-# ProjetoDescomplicapt2
-Projeto para o curso descomplica com a Nubank utilizando Javascripit e react
+# Projeto estudos Loja virtual API Mercado livre
+Projeto manual do dev utilizando react.js e api do mercado livre
